@@ -1,0 +1,22 @@
+body {background-color: blue;
+color: azure;}
+h1 {
+    text-align: center;
+}
+img {border-radius: 20px;
+display: block;
+margin: auto;}
+p {
+    text-align: center;
+}
+li {
+    text-align: center;
+}
+button{
+    display: block;
+    margin: auto;
+    padding: 20px;
+}
+button:hover{
+    background-color: blueviolet;
+}
